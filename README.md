@@ -1,0 +1,2 @@
+# LAMP_EC2
+LAMP para EC2 en AWS
